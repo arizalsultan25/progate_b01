@@ -1,0 +1,26 @@
+footer{
+	text-align: center;
+	background-color: lemonchiffon;
+	color: rgb(179, 137, 83);
+	padding :3vw;
+}
+.fheader{
+	font-family: 'Archivo', sans-serif;
+}
+.fheader h1{
+	font-size: 24px;
+	padding-bottom: 15px;
+}
+
+.fheader p {
+	padding-bottom: 15px;
+}
+
+.flogo{
+	margin-right: 5px;
+	margin-bottom: 10px;
+}
+
+.ffooter p {
+	margin-bottom: 10px;
+}
